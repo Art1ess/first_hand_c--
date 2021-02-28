@@ -1,0 +1,3 @@
+C:/Users/zhang/Desktop/repo/first_hand_c++/build/CMakeFiles/rebuild_cache.dir
+C:/Users/zhang/Desktop/repo/first_hand_c++/build/CMakeFiles/firstHandCpp.dir
+C:/Users/zhang/Desktop/repo/first_hand_c++/build/CMakeFiles/edit_cache.dir

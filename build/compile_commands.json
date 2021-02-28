@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/zhang/Desktop/repo/first_hand_c++/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\firstHandCpp.dir\\hello_world.cpp.obj -c C:\\Users\\zhang\\Desktop\\repo\\first_hand_c++\\hello_world.cpp",
+  "file": "C:/Users/zhang/Desktop/repo/first_hand_c++/hello_world.cpp"
+}
+]
